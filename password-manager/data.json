@@ -1,0 +1,22 @@
+{
+    "Amazon": {
+        "email": "name@email.com",
+        "password": "(75twE(SXsKiEF"
+    },
+    "Facebook": {
+        "email": "name@email.com",
+        "password": "z6ro r$B$fbo2L"
+    },
+    "Google": {
+        "email": "johndoe@gmail.com",
+        "password": "xnMK L!#GC4%V0JI"
+    },
+    "Yahoo": {
+        "email": "name@email.com",
+        "password": "I%d+34t(Ib4Cqn1"
+    },
+    "Sephora": {
+        "email": "name@email.com",
+        "password": "$02Hc2#A)IzR$1Yx"
+    }
+}

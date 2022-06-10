@@ -1,0 +1,100 @@
+1) The Shawshank Redemption
+2) The Godfather
+3) The Godfather: Part II
+4) The Dark Knight
+5) 12 Angry Men
+6) Schindler's List
+7) The Lord of the Rings: The Return of the King
+8) Pulp Fiction
+9) Il buono, il brutto, il cattivo
+10) The Lord of the Rings: The Fellowship of the Ring
+11) Fight Club
+12) Forrest Gump
+13) Inception
+14) The Lord of the Rings: The Two Towers
+15) Star Wars: Episode V - The Empire Strikes Back
+16) The Matrix
+17) Goodfellas
+18) One Flew Over the Cuckoo's Nest
+19) Shichinin no samurai
+20) Se7en
+21) La vita è bella
+22) Cidade de Deus
+23) The Silence of the Lambs
+24) It's a Wonderful Life
+25) Star Wars
+26) Saving Private Ryan
+27) The Green Mile
+28) Sen to Chihiro no kamikakushi
+29) Interstellar
+30) Gisaengchung
+31) Léon
+32) Seppuku
+33) The Usual Suspects
+34) The Lion King
+35) The Pianist
+36) Terminator 2: Judgment Day
+37) Back to the Future
+38) American History X
+39) Modern Times
+40) Gladiator
+41) Psycho
+42) The Departed
+43) City Lights
+44) The Intouchables
+45) Whiplash
+46) Hotaru no haka
+47) The Prestige
+48) Once Upon a Time in the West
+49) Casablanca
+50) Nuovo Cinema Paradiso
+51) Rear Window
+52) Alien
+53) Apocalypse Now
+54) Memento
+55) The Great Dictator
+56) Raiders of the Lost Ark
+57) Django Unchained
+58) The Lives of Others
+59) Hamilton
+60) Paths of Glory
+61) Joker
+62) WALL·E
+63) The Shining
+64) Avengers: Infinity War
+65) Sunset Blvd.
+66) Witness for the Prosecution
+67) Oldeuboi
+68) Spider-Man: Into the Spider-Verse
+69) Mononoke-hime
+70) Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+71) The Dark Knight Rises
+72) Once Upon a Time in America
+73) Kimi no na wa.
+74) Aliens
+75) Coco
+76) Avengers: Endgame
+77) Capharnaüm
+78) American Beauty
+79) Braveheart
+80) Tengoku to jigoku
+81) Das Boot
+82) Toy Story
+83) 3 Idiots
+84) Amadeus
+85) Inglourious Basterds
+86) Good Will Hunting
+87) Star Wars: Episode VI - Return of the Jedi
+88) Taare Zameen Par
+89) Reservoir Dogs
+90) 2001: A Space Odyssey
+91) Requiem for a Dream
+92) Jagten
+93) Vertigo
+94) M - Eine Stadt sucht einen Mörder
+95) Eternal Sunshine of the Spotless Mind
+96) Citizen Kane
+97) Dangal
+98) Singin' in the Rain
+99) Ladri di biciclette
+100) The Kid
