@@ -40,6 +40,10 @@ screen.onkeypress(l_paddle.down, "s")
 game_on = True
 delay = 0.07
 while game_on:
+    if sb.l_score == sb.win_score or sb.r_score == sb.win_score:
+        sb.update_scores()
+        break
+
     time.sleep(delay)
     screen.update()
     ball.move()
